@@ -18,7 +18,7 @@ console.log('Hello World');
 * 다른 언어와 마찬가지로 문법에 맞는 문장을 구성하는것은 물론 <code>의미<sup>semantics</sup></code>를 가지고 있어야 한다.
 
 ```javascript
-// 문법적으로는 이상이 없다고 하여도 의미적으로 옳지않은것은 사용하지 말아햔다.
+// 문법적으로는 이상이 없다고 하여도 의미적으로 옳지않은것은 사용하지 말아야한다.
 
 
 const number = "string";
